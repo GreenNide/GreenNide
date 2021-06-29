@@ -12,6 +12,6 @@
 ## Contacts
 [![Telegramm](https://img.shields.io/badge/Telegram-191919?style=flat-square&logo=telegram)](https://t.me/nide_1241)
 
-[![Vk](https://img.shields.io/badge/Vk-191919?style=flat-square&logo=vk)](https://t.me/nide_1241)
+[![Vk](https://img.shields.io/badge/Vk-191919?style=flat-square&logo=vk)](https://vk.com/yasinovskiy_egor)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-191919?style=flat-square&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/egor-yasinovskiy-325a47215)
